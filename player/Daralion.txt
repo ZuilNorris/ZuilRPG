@@ -1,0 +1,14 @@
+Daralion
+
+HP = 180.00
+Dmg = 69.00
+Str = 5
+Dex = 13
+Vel = 12
+Int = 0
+Cons = 1
+Ele = 0
+ArmP = 2
+ArmM = 0
+Lvl = 6
+Class = 1

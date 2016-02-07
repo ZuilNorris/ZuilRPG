@@ -1,0 +1,14 @@
+Mabel
+
+HP = 310.00
+Dmg = 55.00
+Str = 5
+Dex = 13
+Vel = 12
+Int = 0
+Cons = 20
+Ele = 5
+ArmP = 2
+ArmM = 0
+Lvl = 0
+Class = 4

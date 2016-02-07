@@ -1,0 +1,14 @@
+Hermenegildo
+
+HP = 0.00
+Dmg = 75.00
+Str = 5
+Dex = 13
+Vel = 12
+Int = 0
+Cons = 1
+Ele = 0
+ArmP = 2
+ArmM = 0
+Lvl = 1
+Class = 3
