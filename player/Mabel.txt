@@ -1,6 +1,6 @@
 Mabel
 
-HP = 310.00
+HP = 0.00
 Dmg = 55.00
 Str = 5
 Dex = 13
