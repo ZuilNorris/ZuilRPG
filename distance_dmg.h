@@ -10,7 +10,7 @@ float Damage_d (Entity* attacker, Entity* target)
 	float dex_mod, dmg_mod, dmg_total,Dmg,Hit,d20a,d15t,a3d6;
 	
 	if (attacker->Class == 1){//Archer tiene una nueva formula
-		a3d6=getInt(6,3) + 4;
+		a3d6=getInt(6,1) + getInt(6,1) + getInt(6,1) + 4;
 		d15t=getInt(15,1);
 		if (a3d6>20){a3d6 = 20;}
 		Hit = (float)attacker->Dex*a3d6/20 + (float)attacker->Vel*a3d6/20 - (float)target->Dex*d15t/15 - (float)target->Vel*d15t/15;
